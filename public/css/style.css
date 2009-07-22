@@ -1,0 +1,39 @@
+/* css by Dylan Fries of Vagabond Brigade. 
+
+ color key : 
+ red: #9f0002
+ 
+CSS Contents:
+1) Layout
+2) Fonts
+3) Headers - general
+4) Body - general
+5) Footer - general
+6) Page Specific
+
+*/
+/* ********** (1) LAYOUT ********** */
+
+body{
+	background-color: #9f0002;
+	}
+	
+#whole_page{
+}
+
+#logo{
+border: solid 10px #9f0002;
+	background: white url(../images/logo_clean_dark.png) no-repeat center;	
+	height: 590px;
+		
+}
+
+/* ********** (2) FONT ************ */
+h1{
+	font-size: 500%;
+	text-align: center;
+}
+/* ********** (3) HEADER ********** */
+/* ********** (4) BODY ************ */
+/* ********** (5) FOOTER ********** */
+/* ********** (6) PAGE SPECIFIC *** */
